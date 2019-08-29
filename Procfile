@@ -1,1 +1,1 @@
-web: ROCKET_PORT=$PORT ./target/release/hello
+web: ROCKET_PORT=$PORT ./target/release/simple-log
